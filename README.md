@@ -31,6 +31,6 @@ Currently, the app is rendering and adding stuff to the DOM, but this is **100% 
 
 ## Stretch Goals
 
-1. Implement `react-router` so that when a user navigates to `http://localhost:5173/#/plants/1` it displays the details for a given plant. (The plant with an `id` of 1, in this case.) The `GET /api/plants/:id` route is already written to respond with all of the details for a single plant. 
+1. Implement `react-router` so that when a user navigates to `http://localhost:5173/#/plants/1` it displays the details for a given plant. (The plant with an `id` of 1, in this case.) The `GET /api/plants/:id` route is already written to respond with all of the details for a single plant.
     * You'll need to research [URL Parameters for React Router](https://v5.reactrouter.com/web/example/url-params)
 2. Add `Material UI` to the project to give the site an earthy color palette.
